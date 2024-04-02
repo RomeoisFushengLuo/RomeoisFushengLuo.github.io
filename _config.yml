@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Romeo.png"
+  avatar           : "Romeo.PNG"
   name             : "Fusheng Luo"
   pronouns         : "him" 
   bio              : "Lifelong learner, MBTI: ENTJ"
