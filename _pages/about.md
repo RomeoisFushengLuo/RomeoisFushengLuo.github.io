@@ -13,7 +13,7 @@ My academic performance is excellent, obtained an average of 85 in Y2 studying, 
 
 My current interest lies in Data Science, and Machine learning (AI related). In particular, in the applied mathematics areas, like finance, physics and biology. For further study, I am planing to read a PhD as my first priority, or searching for career opportunities in the industry.
 
-For more information, you can find my CV here: [Luo's CV](../assets/Curriculum_Vitae.pdf)
+For more information, you can find my CV here: [Luo's CV](../assets/Fusheng Luo-Resume-official.pdf)
 
 [Email](18756574729@163.com)/ [Github](https://github.com/RomeoisFushengLuo)
 
